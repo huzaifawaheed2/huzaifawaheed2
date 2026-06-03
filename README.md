@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Muhammad Huzaifa Waheed
 
 ### QA Engineer & Data Analytics Specialist
-**Manual Testing • Database Testing • SQL • Data Analytics**
+**Manual Testing • Database Testing • API Testing • ETL Testing • Data Analytics**
 
 🌐 **LinkedIn:** https://www.linkedin.com/in/muhammad-huzaifa-waheed-70043338b
 
@@ -22,15 +22,16 @@
 
 ```
 Quality-focused QA Engineer with hands-on expertise in manual testing,
-database testing, and data analytics. Committed to delivering robust
-software solutions through meticulous testing and data-driven insights.
+database testing, ETL testing, and data analytics. Committed to delivering 
+robust software solutions through meticulous testing and data-driven insights.
 ```
 
-- 🧪 QA Engineer specializing in **Manual Testing**, **Database Testing**, **ETL Testing**, and **Test Automation**
+- 🧪 QA Engineer specializing in **Manual Testing**, **Database Testing**, **ETL Testing**, **API Testing**, and **Test Automation**
 - 📊 Data Analytics specialist with expertise in **Excel**, **Power Query**, **SQL**, and **Data Preparation**
 - 📝 Strong experience in **Test Case Creation**, **Bug Reporting**, **RTM (Requirements Traceability Matrix)**, and **QA Documentation**
 - 🔍 Proficient in **Database Testing**, **ETL Testing**, **Data Validation**, and **Quality Assurance Methodologies**
 - 📈 Certified professional from **DecodeLabs Data Analytics Internship** with focus on data cleaning and preparation
+- ✅ **100% Test Pass Rate** on completed projects with comprehensive test coverage
 - 🤝 Open to **Full-Time**, **Contract**, and **Remote** opportunities in QA and Data Analytics
 - 📬 Contact: **[huzaifawaheed1258@gmail.com](mailto:huzaifawaheed1258@gmail.com)**
 
@@ -43,6 +44,7 @@ software solutions through meticulous testing and data-driven insights.
 ### Testing & QA
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Database Testing](https://img.shields.io/badge/Database_Testing-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing-009688?style=for-the-badge&logo=postman&logoColor=white)
 ![ETL Testing](https://img.shields.io/badge/ETL_Testing-4479A1?style=for-the-badge&logo=apache&logoColor=white)
 ![Test Documentation](https://img.shields.io/badge/Test_Documentation-6C5B7F?style=for-the-badge&logo=readme&logoColor=white)
 
@@ -55,7 +57,7 @@ software solutions through meticulous testing and data-driven insights.
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Languages
@@ -68,6 +70,71 @@ software solutions through meticulous testing and data-driven insights.
 ---
 
 ## 💼 Featured Projects
+
+### 🧪 SQA Projects Portfolio ⭐
+
+Comprehensive **Software Quality Assurance** portfolio showcasing testing expertise across multiple domains and methodologies.
+
+**✨ Current Projects:**
+
+#### 01. OrangeHRM Login Module Testing ✅ **COMPLETED**
+
+Complete manual testing project for OrangeHRM Login Page
+
+**📊 Test Results:**
+- Total Test Cases: **10/10** ✅
+- Pass Rate: **100%** 🎯
+- Defects Found: **0**
+- Test Scenarios Covered: 10
+- Screenshots Captured: 8
+
+**📋 Test Coverage:**
+- ✅ Valid Login Verification
+- ✅ Invalid Username Validation
+- ✅ Invalid Password Validation
+- ✅ Required Field Validation
+- ✅ Password Masking Verification
+- ✅ Forgot Password Functionality
+- ✅ Error Message Validation
+- ✅ Login Page UI Validation
+
+**📦 Deliverables:**
+- Requirements Document (PDF & DOCX)
+- Test Scenarios Document
+- Test Cases with Steps & Expected Results
+- Requirements Traceability Matrix (RTM)
+- Bug Report (if applicable)
+- Test Summary Report
+- Execution Screenshots
+
+**🛠️ Technologies Used:**
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6B6B?style=flat-square&logo=checkmarx&logoColor=white)
+![Test Documentation](https://img.shields.io/badge/Test_Documentation-6C5B7F?style=flat-square&logo=readme&logoColor=white)
+
+#### 02. SauceDemo E-Commerce Testing 🚀 **PLANNED**
+- End-to-end testing of e-commerce platform
+- Shopping cart & checkout functionality
+- User authentication & navigation
+
+#### 03. API Testing with Postman 🚀 **PLANNED**
+- REST API testing and validation
+- GET, POST, PUT, DELETE requests
+- Response validation & error handling
+
+#### 04. SQL Database Testing 🚀 **PLANNED**
+- Database schema validation
+- Data integrity checks
+- Complex SQL queries & backend testing
+
+#### 05. ETL Testing Project 🚀 **PLANNED**
+- Data pipeline validation
+- Source to target verification
+- Data transformation & quality checks
+
+**📁 Repository:** [SQA-Projects](https://github.com/huzaifawaheed2/SQA-Projects)
+
+---
 
 ### 📊 DecodeLabs Data Analytics Internship
 
@@ -90,36 +157,17 @@ Comprehensive data cleaning and preparation project completed during internship 
 
 ---
 
-### 🧪 SQA Projects Portfolio
-
-Comprehensive Software Quality Assurance portfolio showcasing testing expertise across multiple domains and methodologies.
-
-**✨ Coverage**
-- **Manual Testing** - Comprehensive test cases, test scenarios, and manual execution protocols
-- **Database Testing** - SQL queries, schema validation, and data integrity verification
-- **ETL Testing** - Pipeline validation and data transformation verification
-- **Test Documentation** - Requirements Traceability Matrix and detailed test case documentation
-- **Bug Reporting** - Professional bug documentation with reproduction steps and severity assessment
-- **QA Standards** - Testing strategies, best practices, and quality benchmarks
-
-**🛠️ Technologies**
-
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6B6B?style=flat-square&logo=checkmarx&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Database Testing](https://img.shields.io/badge/Database_Testing-336791?style=flat-square&logo=postgresql&logoColor=white)
-![ETL Testing](https://img.shields.io/badge/ETL_Testing-4479A1?style=flat-square&logo=apache&logoColor=white)
-
-**📁 Repository:** [SQA-Projects](https://github.com/huzaifawaheed2/SQA-Projects)
-
----
-
 ## 🏗️ Core Expertise
 
 ### Quality Assurance
 - ✅ **Manual Testing** - Test planning, execution, analysis, and reporting
+- ✅ **Functional Testing** - Feature validation and user workflow testing
+- ✅ **Negative Testing** - Error handling and edge case validation
+- ✅ **Validation Testing** - UI and data validation
 - ✅ **Database Testing** - SQL queries, data integrity, and schema validation
 - ✅ **ETL Testing** - Data pipeline validation and transformation verification
 - ✅ **Test Documentation** - Test cases, RTM creation, and comprehensive bug reports
+- ✅ **Requirements Traceability** - Mapping requirements to test cases
 
 ### Data & Analytics
 - 📊 Data Cleaning & Preparation
@@ -133,12 +181,26 @@ Comprehensive Software Quality Assurance portfolio showcasing testing expertise 
 ## 🏆 Professional Highlights
 
 - ✅ **Certified Professional** - DecodeLabs Data Analytics Internship
-- 📝 **Comprehensive QA Portfolio** - Diverse testing domains and methodologies
+- 📊 **100% Test Pass Rate** - OrangeHRM Login Module (10/10 test cases passed)
+- 🧪 **Comprehensive QA Portfolio** - Diverse testing domains and methodologies
+- 📝 **Complete Test Documentation** - Requirements, scenarios, cases, RTM, and reports
 - 🔍 **Advanced Data Skills** - Excel, Power Query, and SQL proficiency
-- 🧪 **Rigorous Testing Standards** - Quality-focused approach with attention to detail
-- 📊 **Strong SQL & Database Knowledge** - Complex queries and data analysis
+- 💾 **Strong SQL & Database Knowledge** - Complex queries and data analysis
 - 📋 **Documentation Excellence** - Professional test cases, RTM, and bug reports
-- 🎯 **Process-Oriented** - Systematic approach to quality assurance
+- 🎯 **Quality-Focused Approach** - Systematic & detail-oriented testing methodology
+- 🎓 **8+ Test Scenarios** - Comprehensive coverage including edge cases and negative testing
+
+---
+
+## 📈 Project Statistics
+
+```
+Total Projects:       5 (1 Completed, 4 Planned)
+Test Cases Executed:  10/10 (100% Pass Rate)
+Defects Found:        0
+Test Coverage:        8 Different Test Scenarios
+Documentation:        Complete & Professional
+```
 
 ---
 
@@ -164,6 +226,6 @@ Comprehensive Software Quality Assurance portfolio showcasing testing expertise 
 
 **Made with ❤️ by [Muhammad Huzaifa Waheed](https://github.com/huzaifawaheed2)**
 
-*Open to exciting QA and Data Analytics opportunities. Let's ensure quality together!* ✨
+*Quality-driven QA Engineer passionate about delivering bug-free software. Let's ensure excellence together!* ✨
 
 </div>
