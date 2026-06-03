@@ -206,6 +206,7 @@ Professional QA portfolio demonstrating comprehensive testing methodologies and 
 - 📈 **Data Cleaning** - Successfully cleaned and validated 1,200+ records with 14 attributes
 - 📋 **Documentation Excellence** - Created comprehensive project reports and technical documentation
 
+---
 
 ## 🎓 Core Competencies
 
