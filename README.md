@@ -206,17 +206,6 @@ Professional QA portfolio demonstrating comprehensive testing methodologies and 
 - 📈 **Data Cleaning** - Successfully cleaned and validated 1,200+ records with 14 attributes
 - 📋 **Documentation Excellence** - Created comprehensive project reports and technical documentation
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifawaheed2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E)
-
-</div>
-
----
 
 ## 🎓 Core Competencies
 
