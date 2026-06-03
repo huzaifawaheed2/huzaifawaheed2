@@ -2,7 +2,8 @@
   
 # 👋 Hi, I'm Muhammad Huzaifa Waheed
 
-### QA Engineer & Data Analytics Specialist | Manual Testing • API Testing • SQL • Data Analytics
+### QA Engineer & Data Analytics Specialist
+**Manual Testing • Database Testing • SQL • Data Analytics**
 
 🌐 **LinkedIn:** https://www.linkedin.com/in/muhammad-huzaifa-waheed-70043338b
 
@@ -19,19 +20,19 @@
 
 ## 🚀 About Me
 
-```text
-Quality-focused QA Engineer with expertise in manual testing,
-API testing, and data analytics. Passionate about ensuring software
-excellence and data-driven decision making.
+```
+Quality-focused QA Engineer with hands-on expertise in manual testing,
+database testing, and data analytics. Committed to delivering robust
+software solutions through meticulous testing and data-driven insights.
 ```
 
-- 🧪 QA Engineer specializing in **Manual Testing**, **API Testing**, **Database Testing**, and **Test Automation**
-- 📊 Data Analytics enthusiast with expertise in **Excel**, **Power Query**, **SQL**, and **Data Preparation**
+- 🧪 QA Engineer specializing in **Manual Testing**, **Database Testing**, **ETL Testing**, and **Test Automation**
+- 📊 Data Analytics specialist with expertise in **Excel**, **Power Query**, **SQL**, and **Data Preparation**
 - 📝 Strong experience in **Test Case Creation**, **Bug Reporting**, **RTM (Requirements Traceability Matrix)**, and **QA Documentation**
-- 🔍 Proficient in **API Testing**, **ETL Testing**, **Database Testing**, and **Quality Assurance Methodologies**
-- 📈 Recently completed **DecodeLabs Data Analytics Internship** with focus on data cleaning and preparation
+- 🔍 Proficient in **Database Testing**, **ETL Testing**, **Data Validation**, and **Quality Assurance Methodologies**
+- 📈 Certified professional from **DecodeLabs Data Analytics Internship** with focus on data cleaning and preparation
 - 🤝 Open to **Full-Time**, **Contract**, and **Remote** opportunities in QA and Data Analytics
-- 📬 Reach me at: **[huzaifawaheed1258@gmail.com](mailto:huzaifawaheed1258@gmail.com)**
+- 📬 Contact: **[huzaifawaheed1258@gmail.com](mailto:huzaifawaheed1258@gmail.com)**
 
 ---
 
@@ -41,9 +42,9 @@ excellence and data-driven decision making.
 
 ### Testing & QA
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-00A4EF?style=for-the-badge&logo=postman&logoColor=white)
 ![Database Testing](https://img.shields.io/badge/Database_Testing-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ETL Testing](https://img.shields.io/badge/ETL_Testing-4479A1?style=for-the-badge&logo=apache&logoColor=white)
+![Test Documentation](https://img.shields.io/badge/Test_Documentation-6C5B7F?style=for-the-badge&logo=readme&logoColor=white)
 
 ### Data & Analytics
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -52,10 +53,10 @@ excellence and data-driven decision making.
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ### Tools & Platforms
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,16 +71,16 @@ excellence and data-driven decision making.
 
 ### 📊 DecodeLabs Data Analytics Internship
 
-Comprehensive data cleaning and preparation project completed during internship at DecodeLabs.
+Comprehensive data cleaning and preparation project completed during internship at DecodeLabs, demonstrating expertise in data quality assurance and analytics.
 
-**✨ Features**
-- Data cleaning using Excel and Power Query
-- Data validation and quality assurance
-- SQL data preparation
-- Database analysis
-- Data-driven insights generation
+**✨ Highlights**
+- End-to-end data cleaning using Excel and Power Query
+- Data validation and quality assurance procedures
+- SQL-based data preparation and transformation
+- Database analysis and optimization
+- Actionable data-driven insights generation
 
-**🛠️ Tech Stack**
+**🛠️ Technologies**
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-F2CC8F?style=flat-square&logo=microsoft&logoColor=white)
@@ -91,59 +92,57 @@ Comprehensive data cleaning and preparation project completed during internship 
 
 ### 🧪 SQA Projects Portfolio
 
-Comprehensive Software Quality Assurance portfolio showcasing testing expertise across multiple domains.
+Comprehensive Software Quality Assurance portfolio showcasing testing expertise across multiple domains and methodologies.
 
-**✨ Projects Include**
-- **Manual Testing** - Test cases, test scenarios, and manual test execution
-- **API Testing** - Postman collections, API test automation, and documentation
-- **Database Testing** - SQL queries, database validation, and data integrity testing
-- **ETL Testing** - ETL pipeline validation and data transformation testing
-- **Test Cases & RTM** - Requirements Traceability Matrix and comprehensive test case documentation
-- **Bug Reports** - Detailed bug documentation with reproduction steps
-- **QA Documentation** - Testing strategies, standards, and best practices
+**✨ Coverage**
+- **Manual Testing** - Comprehensive test cases, test scenarios, and manual execution protocols
+- **Database Testing** - SQL queries, schema validation, and data integrity verification
+- **ETL Testing** - Pipeline validation and data transformation verification
+- **Test Documentation** - Requirements Traceability Matrix and detailed test case documentation
+- **Bug Reporting** - Professional bug documentation with reproduction steps and severity assessment
+- **QA Standards** - Testing strategies, best practices, and quality benchmarks
 
-**🛠️ Tech Stack**
+**🛠️ Technologies**
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6B6B?style=flat-square&logo=checkmarx&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Database Testing](https://img.shields.io/badge/Database_Testing-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![ETL Testing](https://img.shields.io/badge/ETL_Testing-4479A1?style=flat-square&logo=apache&logoColor=white)
 
 **📁 Repository:** [SQA-Projects](https://github.com/huzaifawaheed2/SQA-Projects)
 
 ---
 
-## 🏗️ Key Expertise
+## 🏗️ Core Expertise
 
-### Testing Domains
-- ✅ **Manual Testing** - Test planning, execution, and reporting
-- ✅ **API Testing** - REST API validation using Postman
-- ✅ **Database Testing** - SQL queries and data integrity verification
-- ✅ **ETL Testing** - Data pipeline and transformation validation
-- ✅ **Test Documentation** - Test cases, RTM, and bug reports
+### Quality Assurance
+- ✅ **Manual Testing** - Test planning, execution, analysis, and reporting
+- ✅ **Database Testing** - SQL queries, data integrity, and schema validation
+- ✅ **ETL Testing** - Data pipeline validation and transformation verification
+- ✅ **Test Documentation** - Test cases, RTM creation, and comprehensive bug reports
 
 ### Data & Analytics
 - 📊 Data Cleaning & Preparation
-- 🔍 Data Validation & Quality Assurance
-- 📈 Excel & Power Query Analysis
-- 💾 SQL Database Queries
-- 📋 Business Intelligence Insights
+- 🔍 Data Validation & Quality Metrics
+- 📈 Excel & Power Query Advanced Analysis
+- 💾 SQL Query Development & Database Analysis
+- 📋 Business Intelligence & Data-Driven Reporting
 
 ---
 
-## 🏆 Key Highlights
+## 🏆 Professional Highlights
 
-- ✅ **Internship Certified** - DecodeLabs Data Analytics Internship
-- 📝 **Comprehensive QA Portfolio** - Multiple testing domains covered
-- 🔍 **Strong Data Preparation Skills** - Excel & Power Query expertise
-- 🧪 **API Testing Experience** - Postman proficiency
-- 📊 **SQL Proficiency** - Database testing and queries
-- 📋 **Documentation Excellence** - Test cases, RTM, and bug reports
-- 🎯 **Quality-Focused Approach** - Attention to detail and thoroughness
+- ✅ **Certified Professional** - DecodeLabs Data Analytics Internship
+- 📝 **Comprehensive QA Portfolio** - Diverse testing domains and methodologies
+- 🔍 **Advanced Data Skills** - Excel, Power Query, and SQL proficiency
+- 🧪 **Rigorous Testing Standards** - Quality-focused approach with attention to detail
+- 📊 **Strong SQL & Database Knowledge** - Complex queries and data analysis
+- 📋 **Documentation Excellence** - Professional test cases, RTM, and bug reports
+- 🎯 **Process-Oriented** - Systematic approach to quality assurance
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -158,12 +157,13 @@ Comprehensive Software Quality Assurance portfolio showcasing testing expertise 
 <div align="center">
 
 ### 👀 Profile Views
+
 ![Visitor Count](https://profile-counter.glitch.me/huzaifawaheed2/count.svg)
 
 ---
 
-**⭐️ From [huzaifawaheed2](https://github.com/huzaifawaheed2)**
+**Made with ❤️ by [Muhammad Huzaifa Waheed](https://github.com/huzaifawaheed2)**
 
-*Thanks for visiting! Feel free to ⭐️ any project you find helpful or interesting. Let's ensure quality together!* ✨
+*Open to exciting QA and Data Analytics opportunities. Let's ensure quality together!* ✨
 
 </div>
