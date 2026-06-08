@@ -1,236 +1,272 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Muhammad Huzaifa Waheed
 
-### Data Analyst & QA Engineer | Data Analytics • Manual Testing • SQL • Excel • Power Query
+### Data Analyst | Power BI Developer | QA Engineer
 
 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-huzaifa-waheed-70043338b
 
 💻 **GitHub:** https://github.com/huzaifawaheed2
 
-📧 **Email:** huzaifawaheed1258@gmail.com
+📧 **Email:** [huzaifawaheed1258@gmail.com](mailto:huzaifawaheed1258@gmail.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/huzaifawaheed2?style=social)](https://github.com/huzaifawaheed2)
-[![Email](https://img.shields.io/badge/Email-huzaifawaheed1258%40gmail.com-red?style=flat&logo=gmail)](mailto:huzaifawaheed1258@gmail.com)
+[![Email](https://img.shields.io/badge/Email-huzaifawaheed1258%40gmail.com-red?style=flat\&logo=gmail)](mailto:huzaifawaheed1258@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```text
-Data-driven professional with strong expertise in Data Analytics and Quality Assurance.
-Passionate about data insights, quality testing, and building robust systems.
-Currently developing expertise in SQL, EDA, and comprehensive QA testing practices.
+Data-driven professional with expertise in Data Analytics, Business Intelligence, and Quality Assurance.
+
+Passionate about transforming raw data into meaningful insights through Data Cleaning, SQL Analytics, Power BI Dashboards, and Business Reporting.
+
+Currently expanding expertise in Power BI, Advanced SQL, Data Visualization, and Software Quality Assurance.
 ```
 
-- 📊 **Data Analyst** specializing in **Exploratory Data Analysis (EDA)**, **Data Cleaning**, and **SQL Analytics**
-- 🧪 **QA Professional** with hands-on experience in **Manual Testing**, **Test Case Design**, **Requirements Traceability**, and **Bug Documentation**
-- 📈 Completed **DecodeLabs Data Analytics Internship** with 3 comprehensive projects
-- 🎯 Built **Professional QA Portfolio** with real-world testing scenarios and industry-standard documentation
-- 💡 Strong understanding of **Data Validation**, **Statistical Analysis**, **Pivot Tables**, and **ETL Concepts**
-- 🔍 Experienced in **Functional Testing**, **Negative Testing**, and **UI/Database Testing**
-- 🤝 Open to **Full-Time**, **Remote**, and **Freelance** opportunities in Data Analytics and QA
-- 📬 Reach me at: **[huzaifawaheed1258@gmail.com](mailto:huzaifawaheed1258@gmail.com)**
+* 📊 Data Analyst specializing in Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, and Business Intelligence
+* 📈 Completed DecodeLabs Data Analytics Internship with 4 end-to-end analytics projects
+* 📉 Developed interactive Power BI dashboards using Data Modeling, DAX, Power Query, and KPI Design
+* 🧪 QA Professional with hands-on experience in Manual Testing, Test Case Design, Requirements Traceability, and Bug Reporting
+* 💡 Strong understanding of Data Validation, Statistical Analysis, ETL Concepts, and Business Intelligence Reporting
+* 🔍 Experienced in Functional Testing, Negative Testing, UI Testing, Database Validation, and Documentation
+* 🤝 Open to Full-Time, Internship, Remote, and Freelance opportunities in Data Analytics, Power BI, and QA
+* 📬 Reach me at: **[huzaifawaheed1258@gmail.com](mailto:huzaifawaheed1258@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Programming Languages
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Programming Languages
 
-### Data Analytics Tools
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-F7630C?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### QA & Testing Tools
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6B6B?style=for-the-badge&logo=checkmark&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Test Case Design](https://img.shields.io/badge/Test_Cases-50C878?style=for-the-badge&logo=file-text&logoColor=white)
+## Business Intelligence & Visualization
 
-### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
-### Documentation
-![Microsoft Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## Data Analytics Tools
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-F7630C?style=for-the-badge\&logo=microsoft-office\&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+
+## Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
+
+
+## QA & Testing
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6B6B?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Test Case Design](https://img.shields.io/badge/Test_Case_Design-50C878?style=for-the-badge)
+
+
+## Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+# 💼 Featured Projects
 
-### 📊 DecodeLabs Data Analytics Internship
+## 📊 DecodeLabs Data Analytics Internship
 
-Comprehensive data analytics projects covering the complete data pipeline from cleaning to analysis and SQL querying.
+Successfully completed 4 end-to-end Data Analytics projects covering the complete analytics workflow from data cleaning to dashboard development.
 
-**🎯 3 Projects Completed:**
+### Project 1 – Data Cleaning & Preparation
 
-#### **Project 1: Data Cleaning & Preparation**
-- Cleaned 1,200 records with 14 columns
-- Handled missing values, duplicates, and date formatting
-- Standardized data types and validated consistency
-- **Tools:** Excel, Power Query
+* Cleaned and validated 1,200+ records
+* Missing value handling
+* Duplicate validation
+* Date standardization
+* Data type validation
 
-#### **Project 2: Exploratory Data Analysis (EDA)**
-- Analyzed E-Commerce dataset (1,200 transactions)
-- Performed statistical analysis and trend identification
-- Created 7+ Pivot Tables and interactive charts
-- Detected outliers using IQR method
-- **Key Findings:**
-  - Top Product: Chair (562 units, PKR 195,620 revenue)
-  - Best Payment Method: Credit Card (PKR 263,847 revenue)
-  - Best Referral Source: Instagram (259 orders, PKR 275,285 revenue)
-- **Tools:** Excel, Pivot Tables, Power Query, Statistical Analysis
-
-#### **Project 3: SQL Data Analysis**
-- Created SQL database and imported 1,200 records
-- Performed complex queries with aggregations and joins
-- Revenue analysis by product, payment method, and referral source
-- Customer behavior and purchasing pattern analysis
-- **Tools:** Microsoft SQL Server, Advanced SQL Queries
-
-**📁 Repository:** [decodelabs-internship](https://github.com/huzaifawaheed2/decodelabs-internship)
+**Tools:** Excel, Power Query
 
 ---
 
-### 🧪 SQA Projects - Quality Assurance Portfolio
+### Project 2 – Exploratory Data Analysis (EDA)
 
-Professional QA portfolio demonstrating comprehensive testing methodologies and industry-standard documentation.
+* Customer purchasing behavior analysis
+* Product performance analysis
+* Revenue trend analysis
+* Payment method analysis
+* Referral source analysis
+* Outlier detection using IQR
 
-**✨ Completed Projects:**
-
-#### **OrangeHRM Login Module Manual Testing** ✅
-- **Scope:** Login functionality, authentication, input validation, error handling
-- **Deliverables:**
-  - 10 Test Scenarios
-  - 10 Test Cases with detailed steps
-  - Requirements Traceability Matrix (RTM)
-  - Bug Report & Defect Tracking
-  - Test Summary Report
-  - 8+ Test Execution Screenshots
-- **Results:** 100% Pass Rate (10/10 tests passed, 0 defects)
-
-**🚀 Planned Projects:**
-- SauceDemo E-Commerce Testing (6 modules)
-- API Testing with Postman (REST endpoints)
-- SQL Database Testing (data validation & backend testing)
-- ETL Testing (source-to-target validation)
-
-**📁 Repository:** [SQA-Projects](https://github.com/huzaifawaheed2/SQA-Projects)
-
-**🎯 Skills Demonstrated:**
-- Manual Testing & Functional Testing
-- Negative Testing & Validation Testing
-- Test Scenario & Test Case Design
-- Requirements Traceability Matrix (RTM)
-- Defect Reporting & Bug Tracking
-- Test Execution & Reporting
-- Professional QA Documentation
+**Tools:** Excel, Pivot Tables, Power Query
 
 ---
 
-## 📊 Data Analytics Expertise
+### Project 3 – SQL Data Analysis
 
-### Statistical Analysis
-- Descriptive Statistics (Mean, Median, Min, Max, Count)
-- Outlier Detection (IQR Method)
-- Data Distribution Analysis
+* Database creation and design
+* Business analysis queries
+* Revenue analysis
+* Product performance analysis
+* Customer insights generation
 
-### Data Preparation
-- Data Profiling & Quality Assessment
-- Missing Value Handling
-- Duplicate Detection & Removal
-- Date Format Standardization
-- Data Type Validation & Conversion
-
-### Business Analytics
-- Customer Purchasing Behavior Analysis
-- Product Performance Trend Analysis
-- Revenue Generation Analysis
-- Payment Method Effectiveness
-- Referral Source Evaluation
-
-### Visualization & Reporting
-- Pivot Tables & Pivot Charts
-- Interactive Dashboards
-- Business Insights Documentation
-- Statistical Reports
+**Tools:** Microsoft SQL Server
 
 ---
 
-## 🧪 QA Testing Expertise
+### Project 4 – Retail Sales Analytics Dashboard
+
+* Built a 3-page interactive Power BI dashboard
+* Sales Overview Dashboard
+* Product Analysis Dashboard
+* Customer Insights Dashboard
+* Data Modeling with Calendar Table
+* DAX Measures & KPI Development
+* Custom Sidebar Navigation
+* Interactive Filters and Slicers
+
+**Tools:** Power BI, Power Query, DAX, Data Modeling
+
+📁 Repository: https://github.com/huzaifawaheed2/decodelabs-internship
+
+---
+
+## 🧪 QA Projects Portfolio
+
+### OrangeHRM Login Module Testing
+
+#### Deliverables
+
+* Test Scenarios
+* Test Cases
+* Requirements Traceability Matrix (RTM)
+* Bug Reports
+* Test Execution Report
+* Test Summary Report
+
+#### Results
+
+✅ 100% Pass Rate
+
+📁 Repository: https://github.com/huzaifawaheed2/SQA-Projects
+
+---
+
+# 📊 Data Analytics Expertise
+
+### Data Cleaning & Preparation
+
+* Data Profiling
+* Data Validation
+* Missing Value Handling
+* Duplicate Detection
+* Data Transformation
+
+### Data Analysis
+
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Business Analytics
+* Revenue Analysis
+* Customer Analytics
+
+### Business Intelligence
+
+* Power BI Dashboard Development
+* KPI Design
+* Interactive Reporting
+* DAX Measures
+* Data Modeling
+
+### SQL Analytics
+
+* Data Querying
+* Business Analysis Queries
+* Aggregate Functions
+* Data Validation
+* Reporting
+
+---
+
+# 🧪 QA Testing Expertise
 
 ### Testing Types
-- **Manual Testing:** Functional, regression, smoke testing
-- **Functional Testing:** Feature validation and workflow testing
-- **Negative Testing:** Input validation and error handling
-- **UI Testing:** User interface and user experience validation
-- **Database Testing:** Data integrity and backend validation
-- **API Testing:** REST endpoint validation and response verification
-- **ETL Testing:** Data pipeline validation and transformation verification
+
+* Manual Testing
+* Functional Testing
+* Regression Testing
+* Smoke Testing
+* Negative Testing
+* UI Testing
+* Database Testing
+* API Testing
+* ETL Testing
 
 ### QA Documentation
-- Test Scenarios & Test Cases
-- Requirements Traceability Matrix (RTM)
-- Bug Reports & Defect Tracking
-- Test Execution Reports
-- Test Summary & Coverage Reports
 
-### Tools & Platforms
-- Manual Test Execution & Documentation
-- Postman for API Testing
-- SQL for Database Validation
-- Excel & Google Sheets for Test Documentation
+* Test Scenarios
+* Test Cases
+* RTM
+* Bug Reports
+* Test Execution Reports
+* Test Summary Reports
 
 ---
 
-## 🏆 Key Achievements
+# 🏆 Key Achievements
 
-- ✅ **DecodeLabs Data Analytics Internship** - Successfully completed 3 comprehensive projects
-- ✅ **OrangeHRM Testing Project** - 100% test pass rate with zero defects
-- 📊 **EDA Analysis** - Analyzed 1,200+ transactions and generated actionable business insights
-- 🧪 **Professional QA Portfolio** - Built industry-standard testing documentation
-- 🎯 **SQL Proficiency** - Wrote 20+ complex SQL queries for business analysis
-- 📈 **Data Cleaning** - Successfully cleaned and validated 1,200+ records with 14 attributes
-- 📋 **Documentation Excellence** - Created comprehensive project reports and technical documentation
+* ✅ Completed DecodeLabs Data Analytics Internship
+* ✅ Successfully Delivered 4 Data Analytics Projects
+* ✅ Built Interactive Power BI Dashboard with DAX & Data Modeling
+* ✅ Analyzed 1,200+ E-Commerce Transactions
+* ✅ Developed Professional QA Portfolio
+* ✅ Completed OrangeHRM Testing Project with 100% Pass Rate
+* ✅ Built SQL Business Analysis Project
+* ✅ Created End-to-End Business Intelligence Dashboard
 
 ---
 
-## 🎓 Core Competencies
+# 🎓 Core Competencies
+
+| Category              | Skills                                                 |
+| --------------------- | ------------------------------------------------------ |
+| Data Analytics        | EDA, Data Cleaning, Data Validation, SQL Analytics     |
+| Business Intelligence | Power BI, DAX, KPI Design, Data Modeling               |
+| QA & Testing          | Manual Testing, Functional Testing, RTM, Bug Reporting |
+| Databases             | SQL Server, Data Validation, Query Writing             |
+| Reporting             | Dashboard Design, Business Insights, Documentation     |
+
+---
+
+# 🎯 Current Focus
+
+* 📊 Advanced Power BI & Business Intelligence
+* 📈 Dashboard Design & Data Visualization
+* 🗄️ Advanced SQL & Database Analytics
+* 🧪 API Testing & ETL Testing
+* 🚀 Building Portfolio-Level Data Analytics Projects
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
-| Category | Skills |
-|----------|--------|
-| **Data Analytics** | EDA, Data Cleaning, Data Validation, Statistical Analysis, SQL, Power Query |
-| **QA & Testing** | Manual Testing, Functional Testing, Test Case Design, RTM, Bug Reporting |
-| **Data Tools** | Excel, Power Query, SQL Server, Pivot Tables |
-| **Documentation** | Test Cases, RTM, Bug Reports, Technical Reports, Requirements Analysis |
-| **Soft Skills** | Attention to Detail, Problem Solving, Documentation, Quality Mindset |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-waheed-70043338b)
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/huzaifawaheed2)
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-waheed-70043338b)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifawaheed2)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifawaheed1258@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:huzaifawaheed1258@gmail.com)
 
 </div>
 
@@ -239,20 +275,13 @@ Professional QA portfolio demonstrating comprehensive testing methodologies and 
 <div align="center">
 
 ### 💡 Professional Quote
+
 *"Quality is not an act, it is a habit." — Aristotle*
 
 ---
 
-### 🎯 Current Focus
-- 📈 Advancing SQL and database analysis skills
-- 🧪 Expanding QA portfolio with API & ETL testing
-- 📊 Mastering advanced statistical analysis techniques
-- 🚀 Building production-ready data solutions
+⭐️ From **Muhammad Huzaifa Waheed**
 
----
-
-**⭐️ From [huzaifawaheed2](https://github.com/huzaifawaheed2)**
-
-*Thanks for visiting! Feel free to explore my projects and connect with me. Let's build quality solutions together! 🚀*
+Thanks for visiting my profile. Feel free to explore my projects and connect with me.
 
 </div>
