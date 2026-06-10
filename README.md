@@ -28,7 +28,7 @@ Currently expanding expertise in Power BI, Advanced SQL, Data Visualization, and
 ```
 
 * 📊 Data Analyst specializing in Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, and Business Intelligence
-* 📈 Completed DecodeLabs Data Analytics Internship with 4 end-to-end analytics projects
+* 📈 Completed 4 end-to-end Data Analytics projects covering Data Cleaning, EDA, SQL Analytics, and Power BI
 * 📉 Developed interactive Power BI dashboards using Data Modeling, DAX, Power Query, and KPI Design
 * 🧪 QA Professional with hands-on experience in Manual Testing, Test Case Design, Requirements Traceability, and Bug Reporting
 * 💡 Strong understanding of Data Validation, Statistical Analysis, ETL Concepts, and Business Intelligence Reporting
@@ -83,9 +83,9 @@ Currently expanding expertise in Power BI, Advanced SQL, Data Visualization, and
 
 # 💼 Featured Projects
 
-## 📊 DecodeLabs Data Analytics Internship
+## 📊 Retail Sales Analytics Projects
 
-Successfully completed 4 end-to-end Data Analytics projects covering the complete analytics workflow from data cleaning to dashboard development.
+A collection of 4 end-to-end Data Analytics projects covering the complete analytics workflow from data cleaning to dashboard development.
 
 ### Project 1 – Data Cleaning & Preparation
 
@@ -137,7 +137,7 @@ Successfully completed 4 end-to-end Data Analytics projects covering the complet
 
 **Tools:** Power BI, Power Query, DAX, Data Modeling
 
-📁 Repository: https://github.com/huzaifawaheed2/decodelabs-internship
+📁 Repository: https://github.com/huzaifawaheed2/retail-sales-analytics
 
 ---
 
@@ -225,7 +225,7 @@ Successfully completed 4 end-to-end Data Analytics projects covering the complet
 
 # 🏆 Key Achievements
 
-* ✅ Completed DecodeLabs Data Analytics Internship
+* ✅ Completed 4 End-to-End Data Analytics Projects
 * ✅ Successfully Delivered 4 Data Analytics Projects
 * ✅ Built Interactive Power BI Dashboard with DAX & Data Modeling
 * ✅ Analyzed 1,200+ E-Commerce Transactions
