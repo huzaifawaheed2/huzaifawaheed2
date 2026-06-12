@@ -22,18 +22,19 @@
 ```text
 Data-driven professional with expertise in Data Analytics, Business Intelligence, and Quality Assurance.
 
-Passionate about transforming raw data into meaningful insights through Data Cleaning, SQL Analytics, Power BI Dashboards, and Business Reporting.
+Passionate about transforming raw data into meaningful insights through Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Power BI Dashboards, and Business Reporting.
 
-Currently expanding expertise in Power BI, Advanced SQL, Data Visualization, and Software Quality Assurance.
+Currently expanding expertise in Python, Data Analytics, Power BI, SQL, Data Visualization, Business Intelligence, and Software Quality Assurance.
 ```
 
-* 📊 Data Analyst specializing in Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, and Business Intelligence
-* 📈 Completed 4 end-to-end Data Analytics projects covering Data Cleaning, EDA, SQL Analytics, and Power BI
+* 📊 Data Analyst specializing in Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Data Visualization, and Business Intelligence
+* 🐍 Hands-on experience with Python, Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization
+* 📈 Completed end-to-end Data Analytics projects covering Data Cleaning, EDA, SQL Analytics, Power BI, and Python-based analysis
 * 📉 Developed interactive Power BI dashboards using Data Modeling, DAX, Power Query, and KPI Design
-* 🧪 QA Professional with hands-on experience in Manual Testing, Test Case Design, Requirements Traceability, and Bug Reporting
-* 💡 Strong understanding of Data Validation, Statistical Analysis, ETL Concepts, and Business Intelligence Reporting
-* 🔍 Experienced in Functional Testing, Negative Testing, UI Testing, Database Validation, and Documentation
-* 🤝 Open to Full-Time, Internship, Remote, and Freelance opportunities in Data Analytics, Power BI, and QA
+* 🧪 QA Professional with hands-on experience in Manual Testing, Test Case Design, Requirements Traceability Matrix (RTM), and Bug Reporting
+* 💡 Strong understanding of Data Validation, Statistical Analysis, ETL Concepts, Business Intelligence Reporting, and Quality Assurance practices
+* 🔍 Experienced in Functional Testing, Negative Testing, UI Testing, Database Validation, Documentation, and Reporting
+* 🤝 Open to Full-Time, Internship, Remote, and Freelance opportunities in Data Analytics, Business Intelligence, and QA
 * 📬 Reach me at: **[huzaifawaheed1258@gmail.com](mailto:huzaifawaheed1258@gmail.com)**
 
 ---
@@ -53,6 +54,14 @@ Currently expanding expertise in Power BI, Advanced SQL, Data Visualization, and
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 
+## Data Analytics Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+
 ## Data Analytics Tools
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
@@ -70,6 +79,12 @@ Currently expanding expertise in Power BI, Advanced SQL, Data Visualization, and
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6B6B?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Test Case Design](https://img.shields.io/badge/Test_Case_Design-50C878?style=for-the-badge)
+
+
+## Development Environment
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ## Version Control
