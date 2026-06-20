@@ -98,31 +98,6 @@ Currently expanding expertise in Python, Data Analytics, Machine Learning, Power
 
 # 💼 Featured Projects
 
-# 🚀 About Me
-
-```text
-Data-driven professional with expertise in Data Analytics, Business Intelligence, Machine Learning, and Quality Assurance.
-
-Passionate about transforming raw data into meaningful insights through Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Machine Learning, Power BI Dashboards, and Business Reporting.
-
-Currently expanding expertise in Python, Data Analytics, Machine Learning, Power BI, SQL, Data Visualization, Business Intelligence, and Software Quality Assurance.
-```
-
-* 📊 Data Analyst specializing in Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Data Visualization, Business Intelligence, and Predictive Analytics
-* 🐍 Hands-on experience with Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn for data analysis and machine learning
-* 🤖 Completed end-to-end Machine Learning projects including Credit Risk Prediction and Customer Churn Prediction
-* 📈 Completed end-to-end Data Analytics projects covering Data Cleaning, EDA, SQL Analytics, Power BI, Machine Learning, and Python-based analysis
-* 📉 Developed interactive Power BI dashboards using Data Modeling, DAX, Power Query, and KPI Design
-* 🧪 QA Professional with hands-on experience in Manual Testing, Test Case Design, Requirements Traceability Matrix (RTM), and Bug Reporting
-* 💡 Strong understanding of Data Validation, Statistical Analysis, ETL Concepts, Business Intelligence Reporting, Machine Learning, and Quality Assurance practices
-* 🔍 Experienced in Functional Testing, Negative Testing, UI Testing, Database Validation, Documentation, and Reporting
-* 🤝 Open to Full-Time, Internship, Remote, and Freelance opportunities in Data Analytics, Business Intelligence, Machine Learning, and QA
-* 📬 Reach me at: **[huzaifawaheed1258@gmail.com](mailto:huzaifawaheed1258@gmail.com)**
-
----
-
-# 💼 Featured Projects
-
 ## 🤖 DevelopersHub Corporation Data Science & Analytics Internship
 
 Successfully completed multiple Data Science and Machine Learning projects during the DevelopersHub Corporation Internship Program.
@@ -177,7 +152,6 @@ Successfully completed multiple Data Science and Machine Learning projects durin
 📁 Repository: https://github.com/huzaifawaheed2/DevelopersHub-Corporation-Internship
 
 ---
-
 
 ## 📊 Retail Sales Analytics Projects
 
