@@ -16,25 +16,25 @@
 </div>
 
 ---
-
 # 🚀 About Me
 
 ```text
-Data-driven professional with expertise in Data Analytics, Business Intelligence, and Quality Assurance.
+Data-driven professional with expertise in Data Analytics, Business Intelligence, Machine Learning, and Quality Assurance.
 
-Passionate about transforming raw data into meaningful insights through Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Power BI Dashboards, and Business Reporting.
+Passionate about transforming raw data into meaningful insights through Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Machine Learning, Power BI Dashboards, and Business Reporting.
 
-Currently expanding expertise in Python, Data Analytics, Power BI, SQL, Data Visualization, Business Intelligence, and Software Quality Assurance.
+Currently expanding expertise in Python, Data Analytics, Machine Learning, Power BI, SQL, Data Visualization, Business Intelligence, and Software Quality Assurance.
 ```
 
-* 📊 Data Analyst specializing in Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Data Visualization, and Business Intelligence
-* 🐍 Hands-on experience with Python, Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization
-* 📈 Completed end-to-end Data Analytics projects covering Data Cleaning, EDA, SQL Analytics, Power BI, and Python-based analysis
+* 📊 Data Analyst specializing in Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Data Visualization, Business Intelligence, and Predictive Analytics
+* 🐍 Hands-on experience with Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn for data analysis and machine learning
+* 🤖 Completed end-to-end Machine Learning projects including Credit Risk Prediction and Customer Churn Prediction
+* 📈 Completed end-to-end Data Analytics projects covering Data Cleaning, EDA, SQL Analytics, Power BI, Machine Learning, and Python-based analysis
 * 📉 Developed interactive Power BI dashboards using Data Modeling, DAX, Power Query, and KPI Design
 * 🧪 QA Professional with hands-on experience in Manual Testing, Test Case Design, Requirements Traceability Matrix (RTM), and Bug Reporting
-* 💡 Strong understanding of Data Validation, Statistical Analysis, ETL Concepts, Business Intelligence Reporting, and Quality Assurance practices
+* 💡 Strong understanding of Data Validation, Statistical Analysis, ETL Concepts, Business Intelligence Reporting, Machine Learning, and Quality Assurance practices
 * 🔍 Experienced in Functional Testing, Negative Testing, UI Testing, Database Validation, Documentation, and Reporting
-* 🤝 Open to Full-Time, Internship, Remote, and Freelance opportunities in Data Analytics, Business Intelligence, and QA
+* 🤝 Open to Full-Time, Internship, Remote, and Freelance opportunities in Data Analytics, Business Intelligence, Machine Learning, and QA
 * 📬 Reach me at: **[huzaifawaheed1258@gmail.com](mailto:huzaifawaheed1258@gmail.com)**
 
 ---
@@ -97,6 +97,87 @@ Currently expanding expertise in Python, Data Analytics, Power BI, SQL, Data Vis
 ---
 
 # 💼 Featured Projects
+
+# 🚀 About Me
+
+```text
+Data-driven professional with expertise in Data Analytics, Business Intelligence, Machine Learning, and Quality Assurance.
+
+Passionate about transforming raw data into meaningful insights through Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Machine Learning, Power BI Dashboards, and Business Reporting.
+
+Currently expanding expertise in Python, Data Analytics, Machine Learning, Power BI, SQL, Data Visualization, Business Intelligence, and Software Quality Assurance.
+```
+
+* 📊 Data Analyst specializing in Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Data Visualization, Business Intelligence, and Predictive Analytics
+* 🐍 Hands-on experience with Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn for data analysis and machine learning
+* 🤖 Completed end-to-end Machine Learning projects including Credit Risk Prediction and Customer Churn Prediction
+* 📈 Completed end-to-end Data Analytics projects covering Data Cleaning, EDA, SQL Analytics, Power BI, Machine Learning, and Python-based analysis
+* 📉 Developed interactive Power BI dashboards using Data Modeling, DAX, Power Query, and KPI Design
+* 🧪 QA Professional with hands-on experience in Manual Testing, Test Case Design, Requirements Traceability Matrix (RTM), and Bug Reporting
+* 💡 Strong understanding of Data Validation, Statistical Analysis, ETL Concepts, Business Intelligence Reporting, Machine Learning, and Quality Assurance practices
+* 🔍 Experienced in Functional Testing, Negative Testing, UI Testing, Database Validation, Documentation, and Reporting
+* 🤝 Open to Full-Time, Internship, Remote, and Freelance opportunities in Data Analytics, Business Intelligence, Machine Learning, and QA
+* 📬 Reach me at: **[huzaifawaheed1258@gmail.com](mailto:huzaifawaheed1258@gmail.com)**
+
+---
+
+# 💼 Featured Projects
+
+## 🤖 DevelopersHub Corporation Data Science & Analytics Internship
+
+Successfully completed multiple Data Science and Machine Learning projects during the DevelopersHub Corporation Internship Program.
+
+### Project 01 – Exploring and Visualizing the Iris Dataset
+
+* Dataset exploration and inspection
+* Data quality assessment
+* Descriptive statistical analysis
+* Scatter plot visualization
+* Histogram visualization
+* Box plot visualization
+* Insight generation through Exploratory Data Analysis (EDA)
+
+**Skills:** Python, Pandas, Matplotlib, Seaborn, EDA
+
+---
+
+### Project 02 – Credit Risk Prediction Using Machine Learning
+
+* Missing value handling and preprocessing
+* Feature encoding and preparation
+* Exploratory Data Analysis (EDA)
+* Logistic Regression model development
+* Confusion Matrix analysis
+* Classification Report generation
+
+✅ Accuracy Score: **78.86%**
+
+**Skills:** Data Cleaning, Machine Learning, Classification Modeling, Model Evaluation
+
+---
+
+### Project 03 – Customer Churn Prediction Using Machine Learning
+
+* Customer churn analysis and prediction
+* Correlation analysis and heatmap visualization
+* Logistic Regression model development
+* Random Forest model development
+* Model comparison and evaluation
+* Feature importance analysis
+* Predictive analytics and customer retention insights
+
+✅ Logistic Regression Accuracy: **81.10%**
+
+✅ Random Forest Accuracy: **86.60%**
+
+✅ Best Model: **Random Forest**
+
+**Skills:** Machine Learning, Predictive Analytics, Random Forest, Logistic Regression, Feature Engineering, Model Evaluation
+
+📁 Repository: https://github.com/huzaifawaheed2/DevelopersHub-Corporation-Internship
+
+---
+
 
 ## 📊 Retail Sales Analytics Projects
 
@@ -186,6 +267,7 @@ A collection of 4 end-to-end Data Analytics projects covering the complete analy
 * Missing Value Handling
 * Duplicate Detection
 * Data Transformation
+* Feature Engineering
 
 ### Data Analysis
 
@@ -194,6 +276,20 @@ A collection of 4 end-to-end Data Analytics projects covering the complete analy
 * Business Analytics
 * Revenue Analysis
 * Customer Analytics
+* Predictive Analytics
+* Customer Churn Analysis
+* Credit Risk Analysis
+
+### Machine Learning
+
+* Logistic Regression
+* Random Forest Classifier
+* Classification Modeling
+* Feature Selection
+* Model Evaluation
+* Accuracy Analysis
+* Confusion Matrix Analysis
+* Classification Report Analysis
 
 ### Business Intelligence
 
@@ -240,8 +336,13 @@ A collection of 4 end-to-end Data Analytics projects covering the complete analy
 
 # 🏆 Key Achievements
 
-* ✅ Completed 4 End-to-End Data Analytics Projects
-* ✅ Successfully Delivered 4 Data Analytics Projects
+* ✅ Completed DevelopersHub Corporation Data Science & Analytics Internship Projects
+* ✅ Successfully Delivered 3 Data Science & Machine Learning Projects
+* ✅ Developed Customer Churn Prediction Model using Random Forest
+* ✅ Achieved 86.60% Accuracy on Customer Churn Prediction Dataset
+* ✅ Developed Credit Risk Prediction Model using Logistic Regression
+* ✅ Achieved 78.86% Accuracy on Credit Risk Prediction Dataset
+* ✅ Completed Iris Dataset Analysis Project
 * ✅ Built Interactive Power BI Dashboard with DAX & Data Modeling
 * ✅ Analyzed 1,200+ E-Commerce Transactions
 * ✅ Developed Professional QA Portfolio
@@ -253,23 +354,25 @@ A collection of 4 end-to-end Data Analytics projects covering the complete analy
 
 # 🎓 Core Competencies
 
-| Category              | Skills                                                 |
-| --------------------- | ------------------------------------------------------ |
-| Data Analytics        | EDA, Data Cleaning, Data Validation, SQL Analytics     |
-| Business Intelligence | Power BI, DAX, KPI Design, Data Modeling               |
-| QA & Testing          | Manual Testing, Functional Testing, RTM, Bug Reporting |
-| Databases             | SQL Server, Data Validation, Query Writing             |
-| Reporting             | Dashboard Design, Business Insights, Documentation     |
+| Category              | Skills                                                                        |
+| --------------------- | ----------------------------------------------------------------------------- |
+| Data Analytics        | EDA, Data Cleaning, Data Validation, SQL Analytics                            |
+| Machine Learning      | Logistic Regression, Random Forest, Classification Modeling, Model Evaluation |
+| Business Intelligence | Power BI, DAX, KPI Design, Data Modeling                                      |
+| QA & Testing          | Manual Testing, Functional Testing, RTM, Bug Reporting                        |
+| Databases             | SQL Server, Data Validation, Query Writing                                    |
+| Reporting             | Dashboard Design, Business Insights, Documentation                            |
 
 ---
 
 # 🎯 Current Focus
 
+* 🤖 Machine Learning & Predictive Analytics
 * 📊 Advanced Power BI & Business Intelligence
 * 📈 Dashboard Design & Data Visualization
 * 🗄️ Advanced SQL & Database Analytics
 * 🧪 API Testing & ETL Testing
-* 🚀 Building Portfolio-Level Data Analytics Projects
+* 🚀 Building Portfolio-Level Data Analytics & Machine Learning Projects
 
 ---
 
