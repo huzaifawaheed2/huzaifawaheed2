@@ -28,7 +28,7 @@ Currently expanding expertise in Python, Data Analytics, Machine Learning, Power
 
 * 📊 Data Analyst specializing in Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Data Visualization, Business Intelligence, and Predictive Analytics
 * 🐍 Hands-on experience with Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn for data analysis and machine learning
-* 🤖 Completed end-to-end Machine Learning projects including Credit Risk Prediction and Customer Churn Prediction
+* 🤖 Completed end-to-end Machine Learning projects including Iris Analysis, Credit Risk Prediction, and Customer Churn Prediction
 * 📈 Completed end-to-end Data Analytics projects covering Data Cleaning, EDA, SQL Analytics, Power BI, Machine Learning, and Python-based analysis
 * 📉 Developed interactive Power BI dashboards using Data Modeling, DAX, Power Query, and KPI Design
 * 🧪 QA Professional with hands-on experience in Manual Testing, Test Case Design, Requirements Traceability Matrix (RTM), and Bug Reporting
@@ -111,6 +111,8 @@ Successfully completed multiple Data Science and Machine Learning projects durin
 * Histogram visualization
 * Box plot visualization
 * Insight generation through Exploratory Data Analysis (EDA)
+
+✅ Successfully completed exploratory data analysis and visualization of the Iris dataset
 
 **Skills:** Python, Pandas, Matplotlib, Seaborn, EDA
 
