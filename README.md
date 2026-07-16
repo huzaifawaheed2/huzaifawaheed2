@@ -19,18 +19,16 @@
 # 🚀 About Me
 
 ```text
-Data-driven professional with expertise in Data Analytics, Business Intelligence, Machine Learning, and Quality Assurance.
+Data-driven professional passionate about transforming raw data into actionable business insights through Data Analytics, Business Intelligence, Machine Learning, SQL Analytics, Dashboard Development, and Software Quality Assurance.
 
-Passionate about transforming raw data into meaningful insights through Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Machine Learning, Power BI Dashboards, and Business Reporting.
-
-Currently expanding expertise in Python, Data Analytics, Machine Learning, Power BI, SQL, Data Visualization, Business Intelligence, and Software Quality Assurance.
+Experienced in building end-to-end analytics solutions, from data preprocessing and exploratory analysis to machine learning models and interactive dashboards using Python, SQL, Power BI, Streamlit, and Plotly.
 ```
 
 * 📊 Data Analyst specializing in Data Cleaning, Exploratory Data Analysis (EDA), SQL Analytics, Data Visualization, Business Intelligence, and Predictive Analytics
 * 🐍 Hands-on experience with Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn for data analysis and machine learning
-* 🤖 Completed end-to-end Machine Learning projects including Iris Analysis, Credit Risk Prediction, and Customer Churn Prediction
-* 📈 Completed end-to-end Data Analytics projects covering Data Cleaning, EDA, SQL Analytics, Power BI, Machine Learning, and Python-based analysis
-* 📉 Developed interactive Power BI dashboards using Data Modeling, DAX, Power Query, and KPI Design
+* 🤖 Completed end-to-end Data Science projects including Iris Analysis, Credit Risk Prediction, Customer Churn Prediction, Term Deposit Prediction, Customer Segmentation, and Interactive Business Intelligence Dashboard Development
+* 📈 Completed end-to-end analytics projects covering Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA), SQL Analytics, Business Intelligence, Interactive Dashboards, and Executive Reporting
+* 📉 Developed interactive dashboards using Power BI, Streamlit, Plotly, DAX, Power Query, KPI Design, Executive Reporting, and Business Storytelling
 * 🧪 QA Professional with hands-on experience in Manual Testing, Test Case Design, Requirements Traceability Matrix (RTM), and Bug Reporting
 * 💡 Strong understanding of Data Validation, Statistical Analysis, ETL Concepts, Business Intelligence Reporting, Machine Learning, and Quality Assurance practices
 * 🔍 Experienced in Functional Testing, Negative Testing, UI Testing, Database Validation, Documentation, and Reporting
@@ -51,7 +49,10 @@ Currently expanding expertise in Python, Data Analytics, Machine Learning, Power
 
 ## Business Intelligence & Visualization
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
 
 
 ## Data Analytics Libraries
@@ -60,6 +61,8 @@ Currently expanding expertise in Python, Data Analytics, Machine Learning, Power
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-8A2BE2?style=for-the-badge)
 
 
 ## Data Analytics Tools
@@ -93,6 +96,19 @@ Currently expanding expertise in Python, Data Analytics, Machine Learning, Power
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
+
+---
+
+# 📌 Featured Repositories
+
+| Repository | Description | Technologies |
+|------------|-------------|--------------|
+| **[DevelopersHub-Corporation-Advanced-Internship](https://github.com/huzaifawaheed2/DevelopersHub-Corporation-Advanced-Internship)** | Advanced Data Science & Analytics projects including Term Deposit Prediction, Customer Segmentation, and Interactive Business Intelligence Dashboard. | Python, Streamlit, Plotly, Scikit-Learn |
+| **[DevelopersHub-Corporation-Internship](https://github.com/huzaifawaheed2/DevelopersHub-Corporation-Internship)** | Data Science & Machine Learning projects including Iris Analysis, Credit Risk Prediction, and Customer Churn Prediction. | Python, SHAP, Scikit-Learn |
+| **[Retail-Sales-Analytics](https://github.com/huzaifawaheed2/retail-sales-analytics)** | Complete Retail Sales Analytics portfolio including Excel, SQL, and Power BI Dashboard projects. | Excel, SQL Server, Power BI |
+| **[SQA-Projects](https://github.com/huzaifawaheed2/SQA-Projects)** | Software Quality Assurance portfolio with Test Cases, RTM, Bug Reports, and QA documentation. | Manual Testing, Postman |
+
+> 💡 **Tip:** Each repository contains a detailed README with project objectives, implementation details, visualizations, technologies used, and step-by-step execution instructions.
 
 ---
 
@@ -154,6 +170,65 @@ Successfully completed multiple Data Science and Machine Learning projects durin
 📁 Repository: https://github.com/huzaifawaheed2/DevelopersHub-Corporation-Internship
 
 ---
+
+## 🚀 DevelopersHub Corporation Advanced Data Science & Analytics Internship
+
+Successfully completed multiple advanced Data Science, Machine Learning, and Business Intelligence projects during the **DevelopersHub Corporation Advanced Internship Program**.
+
+### Project 01 – Term Deposit Subscription Prediction Using Machine Learning
+
+* Data cleaning and preprocessing
+* Feature engineering
+* Exploratory Data Analysis (EDA)
+* Logistic Regression model development
+* Random Forest model development
+* Model evaluation and comparison
+* SHAP Explainable AI (XAI)
+
+✅ Developed machine learning models to predict customer term deposit subscriptions.
+
+**Skills:** Python, Pandas, Matplotlib, Seaborn, Scikit-Learn, SHAP, Machine Learning
+
+---
+
+### Project 02 – Customer Segmentation Using Unsupervised Learning
+
+* Data quality assessment
+* Exploratory Data Analysis (EDA)
+* Feature scaling
+* K-Means clustering
+* Elbow Method
+* Principal Component Analysis (PCA)
+* Customer segmentation
+* Marketing strategy development
+
+✅ Successfully segmented customers into meaningful groups using K-Means Clustering.
+
+**Skills:** Python, Pandas, Matplotlib, Seaborn, Scikit-Learn, PCA, K-Means Clustering
+
+---
+
+### Project 03 – Global Superstore Business Intelligence Dashboard
+
+* Data cleaning and preprocessing
+* Feature engineering
+* Exploratory Data Analysis (EDA)
+* Interactive Streamlit dashboard development
+* KPI card design
+* Interactive Plotly visualizations
+* Dynamic dashboard filters
+* Global sales map
+* Business insight generation
+
+✅ Successfully developed an interactive Business Intelligence dashboard for Global Superstore sales analysis.
+
+**Skills:** Python, Pandas, Streamlit, Plotly, Business Intelligence, Dashboard Development
+
+📁 Repository: https://github.com/huzaifawaheed2/DevelopersHub-Corporation-Advanced-Internship
+
+---
+
+
 
 ## 📊 Retail Sales Analytics Projects
 
@@ -236,52 +311,50 @@ A collection of 4 end-to-end Data Analytics projects covering the complete analy
 
 # 📊 Data Analytics Expertise
 
-### Data Cleaning & Preparation
+### Data Preparation
 
-* Data Profiling
+* Data Cleaning
 * Data Validation
-* Missing Value Handling
-* Duplicate Detection
+* Data Wrangling
 * Data Transformation
 * Feature Engineering
+* Data Preprocessing
 
 ### Data Analysis
 
 * Exploratory Data Analysis (EDA)
 * Statistical Analysis
 * Business Analytics
-* Revenue Analysis
 * Customer Analytics
+* Sales Analytics
+* Profitability Analysis
 * Predictive Analytics
-* Customer Churn Analysis
-* Credit Risk Analysis
 
 ### Machine Learning
 
 * Logistic Regression
-* Random Forest Classifier
-* Classification Modeling
-* Feature Selection
+* Random Forest
+* K-Means Clustering
+* Principal Component Analysis (PCA)
 * Model Evaluation
-* Accuracy Analysis
-* Confusion Matrix Analysis
-* Classification Report Analysis
+* Explainable AI (SHAP)
 
 ### Business Intelligence
 
 * Power BI Dashboard Development
+* Streamlit Dashboard Development
+* Plotly Interactive Visualizations
 * KPI Design
-* Interactive Reporting
-* DAX Measures
-* Data Modeling
+* Executive Reporting
+* Dashboard Storytelling
 
 ### SQL Analytics
 
-* Data Querying
-* Business Analysis Queries
+* SQL Server
+* Query Writing
 * Aggregate Functions
-* Data Validation
-* Reporting
+* Database Validation
+* Business Reporting
 
 ---
 
@@ -312,43 +385,56 @@ A collection of 4 end-to-end Data Analytics projects covering the complete analy
 
 # 🏆 Key Achievements
 
-* ✅ Completed DevelopersHub Corporation Data Science & Analytics Internship Projects
-* ✅ Successfully Delivered 3 Data Science & Machine Learning Projects
-* ✅ Developed Customer Churn Prediction Model using Random Forest
-* ✅ Achieved 86.60% Accuracy on Customer Churn Prediction Dataset
-* ✅ Developed Credit Risk Prediction Model using Logistic Regression
-* ✅ Achieved 78.86% Accuracy on Credit Risk Prediction Dataset
-* ✅ Completed Iris Dataset Analysis Project
-* ✅ Built Interactive Power BI Dashboard with DAX & Data Modeling
-* ✅ Analyzed 1,200+ E-Commerce Transactions
-* ✅ Developed Professional QA Portfolio
-* ✅ Completed OrangeHRM Testing Project with 100% Pass Rate
-* ✅ Built SQL Business Analysis Project
-* ✅ Created End-to-End Business Intelligence Dashboard
+* ✅ Completed DevelopersHub Corporation Data Science & Analytics Internship (Phase 1)
+
+* ✅ Completed DevelopersHub Corporation Advanced Data Science & Analytics Internship (Phase 2)
+
+* ✅ Successfully Delivered 6 End-to-End Data Science & Analytics Projects
+
+* ✅ Built an Interactive Business Intelligence Dashboard using Streamlit & Plotly
+
+* ✅ Designed Executive Dashboard featuring 8 KPI Cards and 12 Interactive Visualizations
+
+* ✅ Implemented Dynamic Dashboard Filters and Downloadable Reports
+
+* ✅ Developed Interactive Global Sales Dashboard with Choropleth Map
+
+* ✅ Built Customer Segmentation Model using K-Means Clustering & PCA
+
+* ✅ Developed Machine Learning Models using Logistic Regression & Random Forest
+
+* ✅ Achieved 86.60% Accuracy on Customer Churn Prediction
+
+* ✅ Achieved 78.86% Accuracy on Credit Risk Prediction
+
+* ✅ Built Interactive Power BI Dashboards using DAX & Power Query
+
+* ✅ Developed Professional Software Quality Assurance Portfolio
 
 ---
 
 # 🎓 Core Competencies
 
-| Category              | Skills                                                                        |
-| --------------------- | ----------------------------------------------------------------------------- |
-| Data Analytics        | EDA, Data Cleaning, Data Validation, SQL Analytics                            |
-| Machine Learning      | Logistic Regression, Random Forest, Classification Modeling, Model Evaluation |
-| Business Intelligence | Power BI, DAX, KPI Design, Data Modeling                                      |
-| QA & Testing          | Manual Testing, Functional Testing, RTM, Bug Reporting                        |
-| Databases             | SQL Server, Data Validation, Query Writing                                    |
-| Reporting             | Dashboard Design, Business Insights, Documentation                            |
+| Category | Skills |
+|-----------|--------|
+| Data Analytics | Data Cleaning, EDA, Feature Engineering, SQL Analytics |
+| Machine Learning | Logistic Regression, Random Forest, K-Means Clustering, PCA, SHAP, Model Evaluation |
+| Business Intelligence | Power BI, Streamlit, Plotly, Dashboard Development, KPI Design |
+| Data Visualization | Matplotlib, Seaborn, Plotly, Business Storytelling |
+| QA & Testing | Manual Testing, Functional Testing, RTM, Bug Reporting |
+| Databases | SQL Server, Query Writing, Data Validation |
 
 ---
 
 # 🎯 Current Focus
 
-* 🤖 Machine Learning & Predictive Analytics
-* 📊 Advanced Power BI & Business Intelligence
-* 📈 Dashboard Design & Data Visualization
-* 🗄️ Advanced SQL & Database Analytics
-* 🧪 API Testing & ETL Testing
-* 🚀 Building Portfolio-Level Data Analytics & Machine Learning Projects
+* 📊 Data Analytics
+* 📈 Business Intelligence
+* 🌐 Streamlit Dashboard Development
+* 📉 Data Visualization
+* 🗄️ SQL Analytics
+* 🤖 Machine Learning
+* 🧪 Software Quality Assurance
 
 ---
 
@@ -370,7 +456,7 @@ A collection of 4 end-to-end Data Analytics projects covering the complete analy
 
 ### 💡 Professional Quote
 
-*"Quality is not an act, it is a habit." — Aristotle*
+*"Turning data into actionable insights through analytics, visualization, and business intelligence."*
 
 ---
 
