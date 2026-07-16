@@ -4,6 +4,8 @@
 
 ### Data Analyst | Power BI Developer | QA Engineer
 
+[![Live Dashboard](https://img.shields.io/badge/_Live_Business_Intelligence_Dashboard-Streamlit-success?style=for-the-badge&logo=streamlit)](https://global-superstore-bi-dashboard.streamlit.app/)
+
 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-huzaifa-waheed-70043338b
 
 💻 **GitHub:** https://github.com/huzaifawaheed2
@@ -103,7 +105,7 @@ Experienced in building end-to-end analytics solutions, from data preprocessing 
 
 | Repository | Description | Technologies |
 |------------|-------------|--------------|
-| **[DevelopersHub-Corporation-Advanced-Internship](https://github.com/huzaifawaheed2/DevelopersHub-Corporation-Advanced-Internship)** | Advanced Data Science & Analytics projects including Term Deposit Prediction, Customer Segmentation, and Interactive Business Intelligence Dashboard. | Python, Streamlit, Plotly, Scikit-Learn |
+| **[DevelopersHub-Corporation-Advanced-Internship](https://github.com/huzaifawaheed2/DevelopersHub-Corporation-Advanced-Internship)** | Advanced Data Science & Analytics portfolio featuring Machine Learning projects and a deployed Interactive Business Intelligence Dashboard. **[🌐 Live Demo](https://global-superstore-bi-dashboard.streamlit.app/)** | Python, Streamlit, Plotly, Scikit-Learn |
 | **[DevelopersHub-Corporation-Internship](https://github.com/huzaifawaheed2/DevelopersHub-Corporation-Internship)** | Data Science & Machine Learning projects including Iris Analysis, Credit Risk Prediction, and Customer Churn Prediction. | Python, SHAP, Scikit-Learn |
 | **[Retail-Sales-Analytics](https://github.com/huzaifawaheed2/retail-sales-analytics)** | Complete Retail Sales Analytics portfolio including Excel, SQL, and Power BI Dashboard projects. | Excel, SQL Server, Power BI |
 | **[SQA-Projects](https://github.com/huzaifawaheed2/SQA-Projects)** | Software Quality Assurance portfolio with Test Cases, RTM, Bug Reports, and QA documentation. | Manual Testing, Postman |
@@ -111,6 +113,15 @@ Experienced in building end-to-end analytics solutions, from data preprocessing 
 > 💡 **Tip:** Each repository contains a detailed README with project objectives, implementation details, visualizations, technologies used, and step-by-step execution instructions.
 
 ---
+
+# 🌐 Live Projects
+
+| Project | Live Demo |
+|---------|-----------|
+| Global Superstore Business Intelligence Dashboard | https://global-superstore-bi-dashboard.streamlit.app/ |
+
+---
+
 
 # 💼 Featured Projects
 
@@ -225,6 +236,8 @@ Successfully completed multiple advanced Data Science, Machine Learning, and Bus
 **Skills:** Python, Pandas, Streamlit, Plotly, Business Intelligence, Dashboard Development
 
 📁 Repository: https://github.com/huzaifawaheed2/DevelopersHub-Corporation-Advanced-Internship
+
+🌐 Live Dashboard: https://global-superstore-bi-dashboard.streamlit.app/
 
 ---
 
@@ -409,6 +422,10 @@ A collection of 4 end-to-end Data Analytics projects covering the complete analy
 
 * ✅ Built Interactive Power BI Dashboards using DAX & Power Query
 
+* ✅ Deployed an Interactive Business Intelligence Dashboard on Streamlit Community Cloud
+
+* ✅ Published a Live Business Intelligence Dashboard for Global Superstore Sales Analysis
+
 * ✅ Developed Professional Software Quality Assurance Portfolio
 
 ---
@@ -430,7 +447,7 @@ A collection of 4 end-to-end Data Analytics projects covering the complete analy
 
 * 📊 Data Analytics
 * 📈 Business Intelligence
-* 🌐 Streamlit Dashboard Development
+* 🌐 Streamlit Dashboard Development & Cloud Deployment
 * 📉 Data Visualization
 * 🗄️ SQL Analytics
 * 🤖 Machine Learning
@@ -456,7 +473,7 @@ A collection of 4 end-to-end Data Analytics projects covering the complete analy
 
 ### 💡 Professional Quote
 
-*"Turning data into actionable insights through analytics, visualization, and business intelligence."*
+*"Transforming raw data into interactive dashboards, actionable insights, and data-driven business decisions."*
 
 ---
 
